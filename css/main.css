@@ -1,0 +1,9 @@
+a{
+  text-decoration: none;
+  color: black;
+  /*固定超链接被点击时前的状态*/
+}
+p{
+  text-decoration: none;
+  color: black;
+}
